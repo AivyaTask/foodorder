@@ -1,0 +1,35 @@
+body{
+    /* background-color: hsl(240, 100%, 50%);*/
+    background-image: url(hot\ briyani.jpg);
+    background-repeat: no-repeat;
+    background-size: 1700px 900px;
+  
+ }
+.signupform{
+    border: solid;
+    height: 550px;
+    width: 550px;
+    background-color: hsl(48, 100%, 93%);
+    opacity: 0.8;
+   /* background-image: url(food\ item.jpg);*/
+     padding-left: 55px;
+     margin-left: auto;
+     margin-top: 40px;
+     margin-right: auto;
+    /* background-repeat: no-repeat;
+     background-size: 500px 800px;*/
+}
+#name{
+    color: hsl(348, 83%, 47%);;
+    font-size: 23px;
+ }
+#forminput
+ {
+ width: 290px;
+ height: 20px;
+ }
+ #signbutton{
+    height: 40px;
+    width: 150px;
+    background-color: hsl(0, 0%, 100%);
+ }

@@ -1,0 +1,18 @@
+.pizzabox{
+    border: solid 1px #000000 hidden ;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+#pizzal{
+    border: solid 1px #000000 hidden;
+}
+#imgpizza{
+    border: solid 1px #000000 hidden;
+    height: 170px;
+
+}
+#despizza{
+    border: solid 1px #000000 hidden;
+    height: 73px;
+}
